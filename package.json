@@ -1,0 +1,16 @@
+{
+  "name": "neotools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "dependencies": {
+    "@cityofzion/neon-js": "^4.7.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
